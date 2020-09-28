@@ -1,4 +1,3 @@
-#Group 4, Joe Masters, Sydney Harless, Anthony Doa, Morgan Weber, Jackson Jennette
 DROP TABLE IF EXISTS ProductSale;
 DROP TABLE IF EXISTS Sale;
 DROP TABLE IF EXISTS Product;
